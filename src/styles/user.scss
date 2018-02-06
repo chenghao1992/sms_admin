@@ -1,0 +1,31 @@
+.user-form {
+	padding-top: 15px;
+  .el-input {
+    margin-right: 10px;
+    display: inline-block;
+    width: 50%;
+  }
+  .el-autocomplete {
+    margin-right: 10px;
+    width: 50%;
+    .el-input {
+      width: 100%;
+    }
+  }
+}
+
+.user-form-btns {
+  padding: 50px 100px;
+  .el-button {
+    width: 100px;
+  }
+}
+.sms-table {
+  border-top: 1px solid #d1dbe5;
+  border-right: 1px solid #d1dbe5;
+  td {
+    border-left: 1px solid #d1dbe5;
+    border-bottom: 1px solid #d1dbe5;
+    text-align: center;
+  }
+}
